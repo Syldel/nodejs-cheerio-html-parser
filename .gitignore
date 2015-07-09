@@ -1,0 +1,9 @@
+node_modules/
+.sass-cache
+data/
+*~
+.DS_Store
+Thumbs.db
+*.bat
+*.sublime-project
+*.sublime-workspace
